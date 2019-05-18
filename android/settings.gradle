@@ -1,0 +1,3 @@
+rootProject.name = 'connectedrooms_3505'
+
+include ':app'
